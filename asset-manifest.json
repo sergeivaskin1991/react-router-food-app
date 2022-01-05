@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-router-food-app/static/css/main.515aadfb.css",
+    "main.js": "/react-router-food-app/static/js/main.331d03a3.js",
+    "static/media/404.svg": "/react-router-food-app/static/media/404.8501066b9acb1d99215b3514b07d7caa.svg",
+    "index.html": "/react-router-food-app/index.html",
+    "main.515aadfb.css.map": "/react-router-food-app/static/css/main.515aadfb.css.map",
+    "main.331d03a3.js.map": "/react-router-food-app/static/js/main.331d03a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.515aadfb.css",
+    "static/js/main.331d03a3.js"
+  ]
+}
